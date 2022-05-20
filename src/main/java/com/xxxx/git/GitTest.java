@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Merge Hello");
         System.out.println("hot-fix commit test");
         System.out.println("master commit test");
+        System.out.println("push commit test");
     }
 }
